@@ -1,0 +1,3 @@
+﻿  TurnLoop.cpp
+F:\SNHU\Term 8\IT 312\Farkle\Farkle\TurnLoop.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Farkle.vcxproj -> F:\SNHU\Term 8\IT 312\Farkle\Debug\Farkle.exe
